@@ -1,6 +1,6 @@
 # jpa01-ArjunLovesCoding
 
-Deployed at: https://jpa01-arjunlovescoding.dokku-12.cs.ucsb.edu
+Deployed at: http://jpa01-arjunlovescoding.dokku-12.cs.ucsb.edu
 
 # About this repo
 
